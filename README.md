@@ -1,2 +1,2 @@
 # Space-Invaders
-This is my first game created in Python.
+A simple game made in pygame.
